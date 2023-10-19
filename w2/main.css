@@ -4,11 +4,11 @@ body {
 }
 
 a {
-    color:red ;
+    color:whitesmoke ;
 }
 
 a :visited {
-    color: grey;
+    color: red;
 }
 
 a:hover {
