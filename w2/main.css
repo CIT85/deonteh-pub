@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    color: white;
+}
+
+a {
+    color:red ;
+}
+
+a :visited {
+    color: grey;
+}
+
+a:hover {
+    color: lightcoral ;
+}
