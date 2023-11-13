@@ -1,0 +1,20 @@
+html{
+    font-size: medium;
+}
+
+body {
+    background-color: blue;
+    color: white;
+}
+
+a {
+    color:whitesmoke ;
+}
+
+a :visited {
+    color: red;
+}
+
+a:hover {
+    color: lightcoral ;
+}
